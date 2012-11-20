@@ -28,6 +28,7 @@
 		3E9483C9165BEB9000C28F89 /* bma-week-10 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "bma-week-10"; sourceTree = BUILT_PRODUCTS_DIR; };
 		3E9483CD165BEB9000C28F89 /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
 		3E9483CF165BEB9000C28F89 /* bma_week_10.1 */ = {isa = PBXFileReference; lastKnownFileType = text.man; path = bma_week_10.1; sourceTree = "<group>"; };
+		3E9483DE165C115500C28F89 /* bma-week-10.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "bma-week-10.h"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +63,7 @@
 			children = (
 				3E9483CD165BEB9000C28F89 /* main.c */,
 				3E9483CF165BEB9000C28F89 /* bma_week_10.1 */,
+				3E9483DE165C115500C28F89 /* bma-week-10.h */,
 			);
 			path = "bma-week-10";
 			sourceTree = "<group>";
