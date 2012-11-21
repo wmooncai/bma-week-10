@@ -5,6 +5,8 @@
 //  Created by W. Mooncai on 11/20/12.
 //  Copyright (c) 2012 W. Mooncai All rights reserved.
 //
+//  * Chapter 10 Challenge, page 66 - Future Time Calculator
+//
 
 #include <stdio.h>
 #include <string.h>
