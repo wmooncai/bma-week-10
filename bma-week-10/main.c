@@ -3,7 +3,7 @@
 //  bma-week-10
 //
 //  Created by W. Mooncai on 11/20/12.
-//  Copyright (c) 2012 W M. All rights reserved.
+//  Copyright (c) 2012 W. Mooncai All rights reserved.
 //
 
 #include <stdio.h>
